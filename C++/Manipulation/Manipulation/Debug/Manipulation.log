@@ -1,0 +1,21 @@
+﻿Построение начато 26.02.2017 14:22:50.
+     1>Проект "C:\Users\Ilya\documents\visual studio 2012\Projects\Manipulation\Manipulation\Manipulation.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Manipulation.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ManipulationDlg.cpp
+         ManipulationDlg.cpp
+     1>c:\users\ilya\documents\visual studio 2012\projects\manipulation\manipulation\manipulationdlg.cpp(179): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\ilya\documents\visual studio 2012\projects\manipulation\manipulation\manipulationdlg.cpp(180): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\ilya\documents\visual studio 2012\projects\manipulation\manipulation\manipulationdlg.cpp(181): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\ilya\documents\visual studio 2012\projects\manipulation\manipulation\manipulationdlg.cpp(182): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\ilya\documents\visual studio 2012\projects\manipulation\manipulation\manipulationdlg.cpp(200): warning C4101: ov: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ilya\documents\visual studio 2012\Projects\Manipulation\Debug\Manipulation.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Ilya\documents\visual studio 2012\Projects\Manipulation\Debug\Manipulation.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ilya\documents\visual studio 2012\Projects\Manipulation\Debug\Manipulation.lib" /MACHINE:X86 Debug\Manipulation.res
+         Debug\Manipulation.obj
+         Debug\ManipulationDlg.obj
+         Debug\stdafx.obj
+         Manipulation.vcxproj -> C:\Users\Ilya\documents\visual studio 2012\Projects\Manipulation\Debug\Manipulation.exe
+     1>Построение проекта "C:\Users\Ilya\documents\visual studio 2012\Projects\Manipulation\Manipulation\Manipulation.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.01
